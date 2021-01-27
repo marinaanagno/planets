@@ -1,3 +1,5 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman
 The next planet over is Jupiter
+Even if you're on Mars the makefile included in this directory won't work
+
